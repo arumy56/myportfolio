@@ -10,8 +10,8 @@
 
 Built my Portfolio using gatsbyjs 
     ```
-
-
- 
+here is the link to view my portfolio :
+https://my-portfolio-ivory-five-60.vercel.app/project/
+ in the future it will be updated to look better 
 
 <!-- AUTO-GENERATED-CONTENT:END -->
