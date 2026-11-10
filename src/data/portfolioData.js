@@ -8,7 +8,7 @@ export const PROFILE = {
   email: "asuhaib56@gmail.com",
   github: "https://github.com/arumy56",
   twitter: "https://twitter.com/arumy56",
-  portfolioUrl: "https://my-portfolio-arumy56.vercel.app",
+  portfolioUrl: "https://my-portfolio-ivory-five-60.vercel.app",
   availability: "Open to Software Engineering & Full-Stack Roles",
 }
 

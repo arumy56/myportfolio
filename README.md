@@ -1,6 +1,6 @@
 # ⚡ Suhaib Ali Ahmed (`@arumy56`) — Developer Portfolio
 
-[![Live Portfolio](https://img.shields.io/badge/Live%20Portfolio-Vercel-000000?style=for-the-badge&logo=vercel)](https://my-portfolio-arumy56.vercel.app)
+[![Live Portfolio](https://img.shields.io/badge/Live%20Portfolio-Vercel-000000?style=for-the-badge&logo=vercel)](https://my-portfolio-ivory-five-60.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-@arumy56-181717?style=for-the-badge&logo=github)](https://github.com/arumy56)
 [![Built With](https://img.shields.io/badge/Stack-React%20%7C%20Gatsby%20%7C%20Tailwind%20CSS-10B981?style=for-the-badge)](https://tailwindcss.com/)
 
